@@ -1,0 +1,9 @@
+Molecule,Diamond_CGCF_MM3,Drugs_CGCF_MM3,Iso17_CGCF_MM3,Qm9_CGCF_MM3,Diamond Energy_MM3
+c4,25,25,25,25,3
+c7n,22,24,25,24,67
+c8a,21,20,19,14,23
+c12p,3,16,21,7,9
+c15helix,12,5,17,7,385
+c17l,6,18,15,11,2873
+e12,6,11,17,13,9
+e27,5,9,17,8,41

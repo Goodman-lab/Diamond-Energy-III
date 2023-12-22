@@ -1,0 +1,14 @@
+Molecule,Lowest MM3 Energy,Conformers within 3 kcal/mol,Conformers within 5 kcal/mol
+c12p,29.5,3,3
+e40,145.814,7,10
+c17l,19.678,1,6
+e27,3.512,3,5
+e39,46.83,2,2
+e38,25.589,4,12
+c4,3.895,25,25
+c39n,52.357,1,4
+e12,42.805,6,6
+c7n,7.912,16,22
+c20n,24.306,3,8
+c8a,13.818,13,21
+c15helix,29.931,5,12

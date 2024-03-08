@@ -11,6 +11,7 @@ In previous studies, it was discovered that local minima with structures resembl
 
 1. **Diamond Energy Projects Low Energy Conformers Compact Data**
     - Detailed information and datasets of low-energy conformers derived from previous studies(https://github.com/Goodman-lab/Diamond_energy and https://github.com/Goodman-lab/Diamond-Energy-II).
+    - These data could be access through this link: https://drive.google.com/file/d/1A3gPoIelP-tkX3-SpkcyD6CSiZfMUAq8/view?usp=drive_link
 
 2. **Scripts Used for Data Preparation and Training**
     - Collection of scripts and tools for processing and preparing data for machine learning training.

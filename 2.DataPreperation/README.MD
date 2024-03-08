@@ -8,11 +8,16 @@ The scripts contained in this directory are used to prepare the data from Diamon
 
 ### ML Models and Their Corresponding Data Preparation Scripts
 
-1. **CGCF** - [Prepare_CGCFdata.py](https://github.com/MinkaiXu/CGCF-ConfGen)
-2. **ConfVAE** - [Prepare_ConfVAEdata.py](https://github.com/MinkaiXu/ConfVAE-ICML21)
-3. **GeoMol** - [Prepare_GeoMoldata.py](https://github.com/PattanaikL/GeoMol)
-4. **ConfGF** - [Prepare_ConfGFdata.py](https://github.com/DeepGraphLearning/ConfGF)
-5. **GeoDiff** - [Prepare_Geodiffdata.py](https://github.com/MinkaiXu/GeoDiff)
+1. **CGCF** - (https://github.com/MinkaiXu/CGCF-ConfGen)
+   - Prepare_CGCFdata.py
+2. **ConfVAE** - (https://github.com/MinkaiXu/ConfVAE-ICML21)
+   - Prepare_ConfVAEdata.py
+3. **GeoMol** - (https://github.com/PattanaikL/GeoMol)
+   - Prepare_GeoMoldata.py
+4. **ConfGF** - (https://github.com/DeepGraphLearning/ConfGF)
+   - Prepare_ConfGFdata.py
+5. **GeoDiff** - (https://github.com/MinkaiXu/GeoDiff)
+   - Prepare_Geodiffdata.py
 
 ## Additional Information
 

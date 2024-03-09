@@ -1,0 +1,9 @@
+Molecule,qm9_CGCF_OPLS4,iso17_CGCF_OPLS4,drugs_CGCF_OPLS4,diamond_CGCF_OPLS4,Diamond Energy_OPLS4
+c4,25,25,25,25,3
+c7n,23,25,25,25,71
+c8a,18,24,25,21,25
+c12p,18,2,20,3,9
+c15helix,5,17,14,7,672
+c17l,21,21,13,20,5125
+e12,9,18,9,13,7
+e27,4,5,4,5,38

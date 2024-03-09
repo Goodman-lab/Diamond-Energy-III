@@ -3,6 +3,8 @@
 
 ## Machine Learning Accelerated Diamond Energy Conformer Search Project
 
+Mengman Wei, Jonathan Goodman
+
 In previous studies, it was discovered that local minima with structures resembling diamond lattices can significantly expedite the conformer search process. This project aims to utilize low-energy conformers obtained from earlier research(https://github.com/Goodman-lab/Diamond_energy and https://github.com/Goodman-lab/Diamond-Energy-II). Specifically, we will:
 1. Investigate whether current leading ML-based conformer search algorithms can rapidly learn these diamond lattice-like low-energy conformer spaces.
 2. Test whether well-trained models, based on these low-energy spaces, can effectively guide a quick conformer search.

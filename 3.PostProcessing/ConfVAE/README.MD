@@ -6,8 +6,6 @@ Once trained on Diamond Energy Projects’ data, the ML models are capable of ge
 ## Outputs
 The direct outputs from the ML models are provided in `.pkl` files. Scripts located in this directory are utilized to process the output data from the ML models for additional computational tasks.
 
-## Results
-The final raw data from ML model outputs, after minimization or energy evaluation using force fields, are accessible via this link: [xxxxxx](#)
 
 ## Further Information
 For a more comprehensive understanding and guidance on using these ML models, refer to the following resources:

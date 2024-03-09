@@ -38,6 +38,9 @@ For additional details and instructions on these ML models, you can refer to the
 7. `Sdftomae.sh`  
    Shell script for converting files from `.sdf` to `.mae` format for use in the MacroModel suite.
 
-8. `Readresults_GeoMolOPLS4_MM3.py`  
+8. `GeoMol_slurm.sh` 
+   Job submit script.
+
+9. `Readresults_GeoMolOPLS4_MM3.py`  
    Script that reads calculation results from the OPLS4 and MM3 force fields, including the lowest energy values and conformer counts within a 3 to 5 kcal/mol range from the lowest energy, and saves them in a `.csv` file.
 

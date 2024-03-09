@@ -22,9 +22,3 @@ In previous studies, it was discovered that local minima with structures resembl
 4. **Results Summary**
     - Comprehensive summary of findings and insights.
 
-5. **Experiments Raw Data**
-    - Archive containing raw data collected during various experimental stages.
-
-
-
-More raw data will soon be shared with google link. Since there are hundreds of GB raw data, and it might need a while to sort them out and being uploaded.

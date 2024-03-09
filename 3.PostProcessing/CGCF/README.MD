@@ -4,7 +4,7 @@
 After learning from Diamond Energy Projects’ data, the ML models can generate low-energy conformers for test molecules. This allows us to compare their performance with that of traditional conformer search methods. The ML-generated conformers are subject to further minimization or single-point calculations using force fields such as MMFF94, MM3, and OPLS4.
 
 ## Contents
-The outputs from the ML models are stored in `.pkl` files. Scripts in this directory are used to prepare the ML model output data for further calculation tasks. The final raw data from the ML model outputs, after minimization or energy evaluation using force fields, are shared at this link: [xxxxxx](#)
+The outputs from the ML models are stored in `.pkl` files. Scripts in this directory are used to prepare the ML model output data for further calculation tasks. 
 
 ## Resources
 For more information and instructions on using these ML models, please refer to the following resources:

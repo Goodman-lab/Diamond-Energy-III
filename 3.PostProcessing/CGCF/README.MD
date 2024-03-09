@@ -46,3 +46,6 @@ For more information and instructions on using these ML models, please refer to 
 9. `Readresults_CGCFOPLS4_MM3.py`  
    Reads OPLS4 and MM3 calculation results, including the lowest energy values and the number of conformers within 3 and 5 kcal/mol of the lowest energy for all test molecules, and saves them into a `.csv` file.
 
+10. `sdftomae.sh`
+   File format converting script.
+

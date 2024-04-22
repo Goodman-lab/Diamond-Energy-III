@@ -24,6 +24,6 @@ In previous studies, it was discovered that local minima with structures resembl
 4. **Results Summary**
     - Comprehensive summary of findings and insights.
 
-5. **All calculations Rawdata**
+5. **All Calculations Rawdata**
     - All raw data from the calculations conducted in this project could be accessed from this link(https://drive.google.com/drive/folders/1-vs6JgZgpJkgCfYGLK1gGT6BTo0br3Zz?usp=drive_link).
 

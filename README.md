@@ -27,3 +27,13 @@ In previous studies, it was discovered that local minima with structures resembl
 5. **All Calculations Rawdata**
     - All raw data from the calculations conducted in this project could be accessed from this link(https://drive.google.com/drive/folders/1-vs6JgZgpJkgCfYGLK1gGT6BTo0br3Zz?usp=drive_link).
 
+
+## Reference
+```bibtex
+@phdthesis{Wei2024DiamondEnergy,
+  title={*Diamond Energy* – a systematic conformation searching method},
+  author={Wei, Mengman},
+  year={2024},
+  school={University of Cambridge}
+  doi={https://doi.org/10.17863/CAM.109200}
+}
